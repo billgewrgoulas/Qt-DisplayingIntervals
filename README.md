@@ -1,2 +1,2 @@
-# Qt-DisplayingIntervals
+# Qt-Displaying Intervals.
 Graphics with Qt.
