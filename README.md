@@ -1,2 +1,3 @@
 # Qt-Displaying Intervals.
-Graphics with Qt.
+
+A small project using Qt.
